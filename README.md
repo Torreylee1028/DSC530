@@ -1,7 +1,7 @@
 # Women Who Exercise
 ## Exploratory Data Analysis
 
-### Introduction
+### Summary
 This project used exploratory data analysis techniques in Python to prove or disprove a hypothesis based on female exercise behavior with those who have kids under the age of 18 based on a survey of time usage. 
 
 ### Hypothesis
