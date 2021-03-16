@@ -8,7 +8,7 @@ This project used exploratory data analysis techniques in Python to prove or dis
 Women who have children under the age of 18 exercise less than women who do not have children under the age of 18.
 
 ### Data
-American time Use Survey: https://www.kaggle.com/bls/american-time-use-survey
+American Time Use Survey: https://www.kaggle.com/bls/american-time-use-survey
 
 ### Techniques
 
